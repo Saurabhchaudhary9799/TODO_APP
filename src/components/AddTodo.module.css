@@ -1,0 +1,12 @@
+.additem{
+    width: 60%;
+    height: 45px;
+    margin: 5px 0;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.button{
+    min-width: 120px;
+    margin: 5px 0;
+}

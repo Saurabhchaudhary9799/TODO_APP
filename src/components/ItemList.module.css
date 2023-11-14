@@ -1,0 +1,14 @@
+.itemName{
+    width: 60%;
+    height: 45px;
+    margin: 5px 0;
+    border: 1px solid black;
+    border-radius: 10px;
+    text-align: left;
+    align-content: center;
+}
+
+.button{
+    min-width: 120px;
+    margin: 5px 0;
+}
